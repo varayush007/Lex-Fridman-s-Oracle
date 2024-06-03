@@ -1,0 +1,9 @@
+faiss-cpu
+langchain
+openai
+python-dotenv
+streamlit
+beautifulsoup4
+tiktoken
+langchain-google-genai
+sentence-transformers
